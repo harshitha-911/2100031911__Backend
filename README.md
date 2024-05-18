@@ -11,6 +11,7 @@
  Table Structures
 
  Customers
+ 
  CustomerID       FirstName         LastName                 Email                          DateOfBirth 
  1                John                Doe                 john.doe@example.com              1985-01-15 
  2 	 	            Jane 		           Smith 	              jane.smith@example.com            1990-06-20 
