@@ -1,6 +1,9 @@
 # 2100031911__Backend
 
 #Task
+
+
+
  For this example, let's assume we have a simple database for a retail store. Our database has the following tables:
 
 1. Customers : Information about customers.
@@ -42,4 +45,4 @@ Sample Queries
 5. Calculate the total amount spent by each customer.
 6. Find the most popular product (the one that has been ordered the most).
 7. Get the total number of orders and the total sales amount for each month in 2023.
-    8.Find customers who have spent more than $1000.
+8. Find customers who have spent more than $1000.
