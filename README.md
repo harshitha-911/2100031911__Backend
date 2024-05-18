@@ -37,12 +37,34 @@ Orders
         3			        2           2            1   
         4             2           3            1 
 
-Sample Queries
+
+
+
+
+Sample Queries with sql output
 1. List all customers.
+![1](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/9c7c71a0-4aea-4e8d-8eae-2e142f8f6187)
+
+
+
 2. Find all orders placed in January 2023.
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/21f36bbb-5450-4929-aaea-36b235dda685)
+
 3. Get the details of each order, including the customer name and email.
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/31357b68-8995-46cd-bf97-1ba2269c572f)
+
 4. List the products purchased in a specific order (e.g., OrderID = 1).
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/f87dbc8e-d638-4ba4-a1d7-b4c4778fca64)
+
 5. Calculate the total amount spent by each customer.
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/cfebb01e-616a-4bbe-a936-f3682b14e634)
+
 6. Find the most popular product (the one that has been ordered the most).
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/f3d5144d-e259-46ef-bd18-8c4eb4810707)
+
 7. Get the total number of orders and the total sales amount for each month in 2023.
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/ccfde22d-ed87-4b9d-8813-754e85362cdc)
+
 8. Find customers who have spent more than $1000.
+![image](https://github.com/harshitha-911/2100031911__Backend/assets/110444788/a755a703-8081-4b13-b3a4-151a39feda68)
+
